@@ -2,7 +2,7 @@
 
 ## LIVE URL
 
-https://thatonemhmd.github.io/02-MyProtfolio-MuhammadAtrach-/
+https://thatonemhmd.github.io/03-PasswordGenerator/
 
 ## Note 
 
@@ -12,7 +12,7 @@ To access the base HTML file of the webpage, click on the index.html file above!
 
 This is a webpage for the improved JavaScript Password Generator. Once opened, the user is presented with an application that enables them to generate random passwords based on criteria that they’ve selected. This serves as a measure of increasing security. Additionally, this app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It has a clean and polished, responsive user interface that adapts to multiple screen sizes.
 
-## Screenshots of the updated website (Portfolio: Muhammad Atrach (Home))
+## Screenshots of the updated website
 
 ![03-javascript-homework-demo](https://user-images.githubusercontent.com/126360257/226629203-c195fa4a-f188-452b-9f21-3de7ad46d479.png)
 
