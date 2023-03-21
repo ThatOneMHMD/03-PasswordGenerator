@@ -4,15 +4,11 @@
 
 https://thatonemhmd.github.io/03-PasswordGenerator/
 
-## Note 
-
-To access the base HTML file of the webpage, click on the index.html file above! The CSS and JavaScript files can be found in the assets file!
-
 ## Description
 
 This is a webpage for the improved JavaScript Password Generator. Once opened, the user is presented with an application that enables them to generate random passwords based on criteria that they’ve selected. This serves as a measure of increasing security. Additionally, this app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It has a clean and polished, responsive user interface that adapts to multiple screen sizes.
 
-## Screenshots of the updated website
+## Screenshot of the updated website
 
 ![03-javascript-homework-demo](https://user-images.githubusercontent.com/126360257/226629203-c195fa4a-f188-452b-9f21-3de7ad46d479.png)
 
@@ -26,6 +22,10 @@ This is a webpage for the improved JavaScript Password Generator. Once opened, t
 - If the user chooses none of the options; then the user will be alerted.
 - When all prompts are answered; then a password is generated that matches the selected criteria. The password gets displayed inside the text box and is easy to copy by user
 
+## Note 
+
+To access the base HTML file of the webpage, click on the index.html file above! The CSS and JavaScript files can be found in the assets file!
+
 ## License
 
 MIT
@@ -35,7 +35,7 @@ MIT
 ThatOneMHMD - The creator of this website!
 (Link: https://github.com/ThatOneMHMD)
 
-UTOR-VIRT-FSF-PT-02-2023-U-LOLC - The provider of the starter code!
-(Link: https://utoronto.bootcampcontent.com/utoronto-bootcamp/UTOR-VIRT-FSF-PT-02-2023-U-LOLC.git)
+Xandromus - The provider of the starter code!
+(Link: https://github.com/coding-boot-camp/friendly-parakeet.git)
 
 
