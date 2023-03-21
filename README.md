@@ -1,11 +1,4 @@
-# 03-PasswordGenerator
-challenge 03; creating a password generator with javascript!
-
-# Change it accordingly: -------------
-
-------------------------------
-
-# Portfolio: Muhammad Atrach
+# Password Generator
 
 ## LIVE URL
 
@@ -13,27 +6,25 @@ https://thatonemhmd.github.io/02-MyProtfolio-MuhammadAtrach-/
 
 ## Note 
 
-To access the base HTML file of the webpage, click on the index.html file above! The HTML files for the AboutMe, ContactME, and Projects pages are displayed just above it. Additionally, the CSS styling sheets and other resources such as images can be found in the assets file!
+To access the base HTML file of the webpage, click on the index.html file above! The CSS and JavaScript files can be found in the assets file!
 
 ## Description
 
-This is a page for the my (Muhammad Atrach) Portfolio. When the LIVE URL is clicked, the Home Page will appear displaying a word describing what I do and a few of my services. When the Contact link (at nav or footer) is clicked, the page will turn into my Contact Me page. The Projects link connects to my projects while the About link explains more about who I (Muhammad Atrach) am/is. Lastly, when the 'M" logo (short for Muhammad) to the left of the nav, or the copyright mark to the left side of the footer are clikced, they connect to the Home Page again! 
-
-Note: in the screenshots underneath, noly the Home Page is displayed. Adding the others would make the README file pretty crowded and inefficient!
+This is a webpage for the improved JavaScript Password Generator. Once opened, the user is presented with an application that enables them to generate random passwords based on criteria that they’ve selected. This serves as a measure of increasing security. Additionally, this app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It has a clean and polished, responsive user interface that adapts to multiple screen sizes.
 
 ## Screenshots of the updated website (Portfolio: Muhammad Atrach (Home))
 
-![portfolio home (top)](https://user-images.githubusercontent.com/126360257/226145740-3eb8d7be-5b50-446a-97cd-6c5451665c22.png)
-![portfolio home (bottom)](https://user-images.githubusercontent.com/126360257/226146448-dd36c628-62c9-4b69-8844-28ec32a11a7d.png)
+![03-javascript-homework-demo](https://user-images.githubusercontent.com/126360257/226629203-c195fa4a-f188-452b-9f21-3de7ad46d479.png)
+
 
 ## Features
 
-- When the portfolio is loaded; the developer's name and typs of services provided are presented beautifully.
-- When clicking on one of the links (in navbar or footer) that reads "Contact"; the user is redirected to the "Contact Me" page where a recent photo of the developer is presented, along with a method to contact them.
-- When clicking on one of the links (in navbar or footer) that reads "About"; the user is redirected to the "About Me" page where a recent photo of the developer is presented, along with a few sentences describing them.
-- When clicking on one of the links (in navbar or footer) that reads "Project"; the user is redirected to the "Project" page where their recent works are displayed, with the first one being much larger than the others. Additionally, when clicking on the images of the individual projects, the user will be redirected to their deployed applications online.
-- When clicking on the "M" logo in the navbar or the copyrights mark in the navbar or footer, respectively; the user is redirected back to the Home Page once again.
-- When the user resizes the page or view the site on various screen sizes or devices; a responsive and adaptive layout is presented, corresponding to the adjusted screen size.
+- When the "Generate Password" button is clicked; the user is presented with a series of prompts for password criteria.
+- When prompted for the length of the password; the user chooses a length of at least 8 characters and no more than 128 characters. 
+- If the length chosen is smaller than 8 or larger than 128; then the user will be alerted.
+- When prompted for password criteria; the user selects which criteria to include in the password. The use has the ability to confirm whether or not to include lowercase characters, uppercase characters, numeric values, and/or special characters. 
+- If the user chooses none of the options; then the user will be alerted.
+- When all prompts are answered; then a password is generated that matches the selected criteria. The password gets displayed inside the text box and is easy to copy by user
 
 ## License
 
@@ -43,5 +34,8 @@ MIT
 
 ThatOneMHMD - The creator of this website!
 (Link: https://github.com/ThatOneMHMD)
+
+UTOR-VIRT-FSF-PT-02-2023-U-LOLC - The provider of the starter code!
+(Link: https://utoronto.bootcampcontent.com/utoronto-bootcamp/UTOR-VIRT-FSF-PT-02-2023-U-LOLC.git)
 
 
