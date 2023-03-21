@@ -135,6 +135,9 @@ button[disabled] {
   }
 }
 
+
+/* added by me to ensure that a large password would be viewed correctly and fully in a matching screen when the size is small enough (i.e. 400px) */
+
 @media (max-width: 400px) {
   .btn {
     font-size: 0.8rem;
